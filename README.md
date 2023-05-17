@@ -1,6 +1,6 @@
 # Linguagem de Programação
 
-Repositório com funções implementadas na linguagem Haskell, para a disciplina de Linguagens de Programação. 
+Repositório com funções implementadas na linguagem Haskell, para a disciplina de Linguagens de Programação, utilizando a ferramenta ```Sublime text```.
 
 #
 
